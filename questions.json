@@ -1,0 +1,1356 @@
+{
+  "categories": [
+    "gta",
+    "anime",
+    "gaming",
+    "general",
+    "movies",
+    "music"
+  ],
+  "questions": [
+    {
+      "alternates": [
+        "Michael"
+      ],
+      "answer": "Michael De Santa",
+      "category": "gta",
+      "difficulty": "easy",
+      "question": "In GTA V, what is the name of the retired bank robber who moves to Los Santos with his family?",
+      "power": "dodge"
+    },
+    {
+      "alternates": [
+        "State of San Andreas"
+      ],
+      "answer": "San Andreas",
+      "category": "gta",
+      "difficulty": "easy",
+      "question": "What fictional US state is GTA: San Andreas set in?"
+    },
+    {
+      "alternates": [
+        "Franklin"
+      ],
+      "answer": "Franklin Clinton",
+      "category": "gta",
+      "difficulty": "medium",
+      "question": "In GTA V, which character starts out as a repo man from Strawberry?",
+      "power": "dodge"
+    },
+    {
+      "alternates": [],
+      "answer": "Lifeinvader",
+      "category": "gta",
+      "difficulty": "medium",
+      "question": "What is the name of GTA V's in-game social media site?"
+    },
+    {
+      "alternates": [
+        "Vice City",
+        "GTA Vice City"
+      ],
+      "answer": "Grand Theft Auto: Vice City",
+      "category": "gta",
+      "difficulty": "medium",
+      "question": "Which GTA game first introduced the fictional city of Vice City?"
+    },
+    {
+      "alternates": [],
+      "answer": "Fort Zancudo",
+      "category": "gta",
+      "difficulty": "hard",
+      "question": "In GTA V, what is the name of the military base in Blaine County?"
+    },
+    {
+      "alternates": [],
+      "answer": "2013",
+      "category": "gta",
+      "difficulty": "easy",
+      "question": "What year was GTA V first released?"
+    },
+    {
+      "alternates": [
+        "Grove Street",
+        "GSF"
+      ],
+      "answer": "Grove Street Families",
+      "category": "gta",
+      "difficulty": "easy",
+      "question": "In GTA: San Andreas, what is the name of CJ's gang?"
+    },
+    {
+      "alternates": [
+        "Niko"
+      ],
+      "answer": "Niko Bellic",
+      "category": "gta",
+      "difficulty": "easy",
+      "question": "What is the name of the protagonist of GTA IV?"
+    },
+    {
+      "alternates": [
+        "TP Enterprises"
+      ],
+      "answer": "Trevor Philips Enterprises",
+      "category": "gta",
+      "difficulty": "hard",
+      "question": "In GTA V, what is Trevor's company called?"
+    },
+    {
+      "alternates": [
+        "Nine-Tails",
+        "Nine Tails"
+      ],
+      "answer": "Kurama",
+      "category": "anime",
+      "difficulty": "medium",
+      "question": "In Naruto, what is the name of the nine-tailed fox sealed inside Naruto?",
+      "power": "strength"
+    },
+    {
+      "alternates": [
+        "Vegeta"
+      ],
+      "answer": "Planet Vegeta",
+      "category": "anime",
+      "difficulty": "hard",
+      "question": "In Dragon Ball Z, what planet is Goku originally from?",
+      "power": "strength"
+    },
+    {
+      "alternates": [
+        "Straw Hats",
+        "Straw Hat Crew"
+      ],
+      "answer": "Straw Hat Pirates",
+      "category": "anime",
+      "difficulty": "easy",
+      "question": "In One Piece, what is Luffy's pirate crew called?",
+      "power": "bounce"
+    },
+    {
+      "alternates": [
+        "Maria"
+      ],
+      "answer": "Wall Maria",
+      "category": "anime",
+      "difficulty": "medium",
+      "question": "In Attack on Titan, what is the name of the outermost wall?",
+      "power": "rage"
+    },
+    {
+      "alternates": [
+        "L Lawliet",
+        "Ryuzaki"
+      ],
+      "answer": "L",
+      "category": "anime",
+      "difficulty": "medium",
+      "question": "In Death Note, what is the name of the detective who hunts Kira?"
+    },
+    {
+      "alternates": [
+        "Electric type"
+      ],
+      "answer": "Electric",
+      "category": "anime",
+      "difficulty": "easy",
+      "question": "In Pokemon, what type is Pikachu?",
+      "power": "speed"
+    },
+    {
+      "alternates": [
+        "Their bodies after the failed transmutation"
+      ],
+      "answer": "Their bodies",
+      "category": "anime",
+      "difficulty": "medium",
+      "question": "In Fullmetal Alchemist: Brotherhood, what are the Elric brothers trying to restore?",
+      "power": "heal"
+    },
+    {
+      "alternates": [
+        "Nezuko Kamado"
+      ],
+      "answer": "Nezuko",
+      "category": "anime",
+      "difficulty": "easy",
+      "question": "In Demon Slayer, what is Tanjiro's sister's name?"
+    },
+    {
+      "alternates": [
+        "Izuku",
+        "Midoriya"
+      ],
+      "answer": "Izuku Midoriya",
+      "category": "anime",
+      "difficulty": "easy",
+      "question": "In My Hero Academia, what is Deku's real name?",
+      "power": "strength"
+    },
+    {
+      "alternates": [],
+      "answer": "Yubaba",
+      "category": "anime",
+      "difficulty": "hard",
+      "question": "In Spirited Away, what is the name of the witch who runs the bathhouse?",
+      "power": "drain"
+    },
+    {
+      "alternates": [
+        "The Ender Dragon"
+      ],
+      "answer": "Ender Dragon",
+      "category": "gaming",
+      "difficulty": "easy",
+      "question": "In Minecraft, what is the name of the boss-like mob found in the End?",
+      "power": "rage"
+    },
+    {
+      "alternates": [
+        "Peach"
+      ],
+      "answer": "Princess Peach",
+      "category": "gaming",
+      "difficulty": "easy",
+      "question": "What is the name of the princess Mario is usually trying to rescue?",
+      "power": "revive"
+    },
+    {
+      "alternates": [],
+      "answer": "Link",
+      "category": "gaming",
+      "difficulty": "easy",
+      "question": "In The Legend of Zelda, what is the name of the hero?",
+      "power": "guard"
+    },
+    {
+      "alternates": [
+        "Vbucks",
+        "V Bucks"
+      ],
+      "answer": "V-Bucks",
+      "category": "gaming",
+      "difficulty": "easy",
+      "question": "What is the name of the currency used to buy the Battle Pass in Fortnite?"
+    },
+    {
+      "alternates": [],
+      "answer": "Sony",
+      "category": "gaming",
+      "difficulty": "easy",
+      "question": "Which company makes the PlayStation?"
+    },
+    {
+      "alternates": [
+        "Impostor"
+      ],
+      "answer": "Impostors",
+      "category": "gaming",
+      "difficulty": "easy",
+      "question": "In Among Us, what are the traitor players called?",
+      "power": "genjutsu"
+    },
+    {
+      "alternates": [],
+      "answer": "1984",
+      "category": "gaming",
+      "difficulty": "hard",
+      "question": "What year was the original Tetris released?"
+    },
+    {
+      "alternates": [],
+      "answer": "Warzone",
+      "category": "gaming",
+      "difficulty": "medium",
+      "question": "In Call of Duty, what is the name of the battle royale mode?"
+    },
+    {
+      "alternates": [
+        "The Erdtree"
+      ],
+      "answer": "Erdtree",
+      "category": "gaming",
+      "difficulty": "hard",
+      "question": "In Elden Ring, what is the name of the mysterious golden tree?",
+      "power": "heal"
+    },
+    {
+      "alternates": [],
+      "answer": "Winston",
+      "category": "gaming",
+      "difficulty": "medium",
+      "question": "In Overwatch, what is the name of the talking gorilla scientist?",
+      "power": "strength"
+    },
+    {
+      "alternates": [],
+      "answer": "Paris",
+      "category": "general",
+      "difficulty": "easy",
+      "question": "What is the capital of France?"
+    },
+    {
+      "alternates": [
+        "Seven"
+      ],
+      "answer": "7",
+      "category": "general",
+      "difficulty": "easy",
+      "question": "How many continents are there on Earth?"
+    },
+    {
+      "alternates": [],
+      "answer": "Au",
+      "category": "general",
+      "difficulty": "medium",
+      "question": "What is the chemical symbol for gold?"
+    },
+    {
+      "alternates": [
+        "Six"
+      ],
+      "answer": "6",
+      "category": "general",
+      "difficulty": "easy",
+      "question": "How many sides does a hexagon have?"
+    },
+    {
+      "alternates": [
+        "Pacific"
+      ],
+      "answer": "Pacific Ocean",
+      "category": "general",
+      "difficulty": "easy",
+      "question": "What is the largest ocean on Earth?"
+    },
+    {
+      "alternates": [],
+      "answer": "Mars",
+      "category": "general",
+      "difficulty": "easy",
+      "question": "What planet is known as the Red Planet?"
+    },
+    {
+      "alternates": [],
+      "answer": "1440",
+      "category": "general",
+      "difficulty": "hard",
+      "question": "How many minutes are in a full day?"
+    },
+    {
+      "alternates": [],
+      "answer": "Portuguese",
+      "category": "general",
+      "difficulty": "medium",
+      "question": "What is the main language spoken in Brazil?"
+    },
+    {
+      "alternates": [
+        "Two"
+      ],
+      "answer": "2",
+      "category": "general",
+      "difficulty": "medium",
+      "question": "What is the smallest prime number?"
+    },
+    {
+      "alternates": [
+        "CO2"
+      ],
+      "answer": "Carbon dioxide",
+      "category": "general",
+      "difficulty": "easy",
+      "question": "What gas do plants absorb from the air?"
+    },
+    {
+      "alternates": [
+        "Spielberg"
+      ],
+      "answer": "Steven Spielberg",
+      "category": "movies",
+      "difficulty": "medium",
+      "question": "Who directed the movie Jaws?"
+    },
+    {
+      "alternates": [
+        "Red pill"
+      ],
+      "answer": "Red",
+      "category": "movies",
+      "difficulty": "medium",
+      "question": "In The Matrix, what color pill does Neo take?",
+      "power": "genjutsu"
+    },
+    {
+      "alternates": [
+        "Frodo"
+      ],
+      "answer": "Frodo Baggins",
+      "category": "movies",
+      "difficulty": "easy",
+      "question": "What is the name of the hobbit who carries the One Ring to Mordor?"
+    },
+    {
+      "alternates": [],
+      "answer": "Finding Nemo",
+      "category": "movies",
+      "difficulty": "medium",
+      "question": "Which movie features a shark named Bruce?",
+      "power": "rage"
+    },
+    {
+      "alternates": [],
+      "answer": "Heisenberg",
+      "category": "movies",
+      "difficulty": "medium",
+      "question": "In Breaking Bad, what is Walter White's street name?"
+    },
+    {
+      "alternates": [],
+      "answer": "Hogwarts",
+      "category": "movies",
+      "difficulty": "easy",
+      "question": "What is the name of the wizarding school in Harry Potter?",
+      "power": "genjutsu"
+    },
+    {
+      "alternates": [
+        "Leo DiCaprio"
+      ],
+      "answer": "Leonardo DiCaprio",
+      "category": "movies",
+      "difficulty": "easy",
+      "question": "Who played Jack in Titanic?"
+    },
+    {
+      "alternates": [
+        "Anakin Skywalker",
+        "Anakin"
+      ],
+      "answer": "Darth Vader",
+      "category": "movies",
+      "difficulty": "easy",
+      "question": "In Star Wars, what is the name of Luke Skywalker's father?",
+      "power": "rage"
+    },
+    {
+      "alternates": [],
+      "answer": "Avatar",
+      "category": "movies",
+      "difficulty": "hard",
+      "question": "What is the highest-grossing movie of all time (unadjusted for inflation)?"
+    },
+    {
+      "alternates": [
+        "Michael"
+      ],
+      "answer": "Michael Scott",
+      "category": "movies",
+      "difficulty": "medium",
+      "question": "In The Office, who is the regional manager of Dunder Mifflin Scranton?"
+    },
+    {
+      "alternates": [],
+      "answer": "Michael Jackson",
+      "category": "music",
+      "difficulty": "easy",
+      "question": "Who is known as the King of Pop?"
+    },
+    {
+      "alternates": [
+        "Beatles"
+      ],
+      "answer": "The Beatles",
+      "category": "music",
+      "difficulty": "easy",
+      "question": "Which band released the album Abbey Road?"
+    },
+    {
+      "alternates": [
+        "Thriller by Michael Jackson"
+      ],
+      "answer": "Thriller",
+      "category": "music",
+      "difficulty": "easy",
+      "question": "What is the best-selling album of all time?",
+      "power": "drain"
+    },
+    {
+      "alternates": [],
+      "answer": "Queen",
+      "category": "music",
+      "difficulty": "easy",
+      "question": "Who sang Bohemian Rhapsody?"
+    },
+    {
+      "alternates": [
+        "The cello"
+      ],
+      "answer": "Cello",
+      "category": "music",
+      "difficulty": "medium",
+      "question": "What instrument does Yo-Yo Ma play?"
+    },
+    {
+      "alternates": [],
+      "answer": "Eminem",
+      "category": "music",
+      "difficulty": "easy",
+      "question": "Which rapper's real name is Marshall Mathers?",
+      "power": "rage"
+    },
+    {
+      "alternates": [],
+      "answer": "1977",
+      "category": "music",
+      "difficulty": "hard",
+      "question": "What year did Elvis Presley die?"
+    },
+    {
+      "alternates": [
+        "Lennon"
+      ],
+      "answer": "John Lennon",
+      "category": "music",
+      "difficulty": "easy",
+      "question": "Who wrote the song Imagine?",
+      "power": "heal"
+    },
+    {
+      "alternates": [
+        "Aretha"
+      ],
+      "answer": "Aretha Franklin",
+      "category": "music",
+      "difficulty": "easy",
+      "question": "Which singer is known as the Queen of Soul?",
+      "power": "heal"
+    },
+    {
+      "alternates": [
+        "Beyonc\u00e9"
+      ],
+      "answer": "Beyonce",
+      "category": "music",
+      "difficulty": "easy",
+      "question": "Which artist released the album Lemonade?"
+    },
+    {
+      "alternates": [
+        "Dynasty 8 Real Estate"
+      ],
+      "answer": "Dynasty 8",
+      "category": "gta",
+      "difficulty": "medium",
+      "question": "In GTA V, what is the name of the real estate website you use to buy properties?"
+    },
+    {
+      "alternates": [],
+      "answer": "Los Santos",
+      "category": "gta",
+      "difficulty": "medium",
+      "question": "In GTA: San Andreas, what city is CJ from?"
+    },
+    {
+      "alternates": [
+        "Roman"
+      ],
+      "answer": "Roman Bellic",
+      "category": "gta",
+      "difficulty": "hard",
+      "question": "In GTA IV, what is the name of Niko's cousin who runs the taxi business?"
+    },
+    {
+      "alternates": [
+        "Ken"
+      ],
+      "answer": "Ken Rosenberg",
+      "category": "gta",
+      "difficulty": "hard",
+      "question": "In GTA: Vice City, what is the name of Tommy Vercetti's lawyer?"
+    },
+    {
+      "alternates": [
+        "The Four Dragons",
+        "Four Dragons"
+      ],
+      "answer": "Four Dragons Casino",
+      "category": "gta",
+      "difficulty": "hard",
+      "question": "In GTA: San Andreas, what is the name of the casino run by the Triads in Las Venturas?"
+    },
+    {
+      "alternates": [],
+      "answer": "Raichu",
+      "category": "anime",
+      "difficulty": "easy",
+      "question": "In Pokemon, what does Ash's Pikachu refuse to evolve into?",
+      "power": "speed"
+    },
+    {
+      "alternates": [
+        "Garp"
+      ],
+      "answer": "Monkey D. Garp",
+      "category": "anime",
+      "difficulty": "medium",
+      "question": "In One Piece, what is the name of Luffy's grandfather?",
+      "power": "strength"
+    },
+    {
+      "alternates": [],
+      "answer": "Pakkun",
+      "category": "anime",
+      "difficulty": "hard",
+      "question": "In Naruto, what is the name of Kakashi's summoning dog pack leader?",
+      "power": "genjutsu"
+    },
+    {
+      "alternates": [],
+      "answer": "Ryuk",
+      "category": "anime",
+      "difficulty": "hard",
+      "question": "In Death Note, what is the name of the Shinigami who drops the Death Note that Light finds?",
+      "power": "drain"
+    },
+    {
+      "alternates": [
+        "Hidden Sand Village",
+        "Sand Village"
+      ],
+      "answer": "Sunagakure",
+      "category": "anime",
+      "difficulty": "hard",
+      "question": "In Naruto, what is the name of the village hidden in the sand?"
+    },
+    {
+      "alternates": [],
+      "answer": "Obsidian",
+      "category": "gaming",
+      "difficulty": "medium",
+      "question": "In Minecraft, what do you need to make a Nether portal?"
+    },
+    {
+      "alternates": [
+        "Lena"
+      ],
+      "answer": "Lena Oxton",
+      "category": "gaming",
+      "difficulty": "medium",
+      "question": "In Overwatch, what is Tracer's real name?",
+      "power": "speed"
+    },
+    {
+      "alternates": [
+        "Skeld"
+      ],
+      "answer": "The Skeld",
+      "category": "gaming",
+      "difficulty": "medium",
+      "question": "In Among Us, what is the name of the first map?"
+    },
+    {
+      "alternates": [
+        "The Tree Sentinel"
+      ],
+      "answer": "Tree Sentinel",
+      "category": "gaming",
+      "difficulty": "hard",
+      "question": "In Elden Ring, who is the first boss most players meet in Limgrave?",
+      "power": "rage"
+    },
+    {
+      "alternates": [
+        "Twelve"
+      ],
+      "answer": "12",
+      "category": "gaming",
+      "difficulty": "hard",
+      "question": "In Minecraft, how many eyes of ender do you need to activate an End portal?"
+    },
+    {
+      "alternates": [],
+      "answer": "Canberra",
+      "category": "general",
+      "difficulty": "medium",
+      "question": "What is the capital of Australia?"
+    },
+    {
+      "alternates": [
+        "Eleven"
+      ],
+      "answer": "11",
+      "category": "general",
+      "difficulty": "medium",
+      "question": "How many players are on a soccer team on the field?"
+    },
+    {
+      "alternates": [],
+      "answer": "Ag",
+      "category": "general",
+      "difficulty": "hard",
+      "question": "What is the chemical symbol for silver?"
+    },
+    {
+      "alternates": [],
+      "answer": "1969",
+      "category": "general",
+      "difficulty": "hard",
+      "question": "In what year did humans first land on the Moon?"
+    },
+    {
+      "alternates": [
+        "Twelve"
+      ],
+      "answer": "12",
+      "category": "general",
+      "difficulty": "hard",
+      "question": "What is the square root of 144?"
+    },
+    {
+      "alternates": [
+        "Sheriff Woody"
+      ],
+      "answer": "Woody",
+      "category": "movies",
+      "difficulty": "easy",
+      "question": "In Toy Story, what is the name of the cowboy?"
+    },
+    {
+      "alternates": [
+        "Nolan"
+      ],
+      "answer": "Christopher Nolan",
+      "category": "movies",
+      "difficulty": "hard",
+      "question": "Who directed the movie Inception?",
+      "power": "genjutsu"
+    },
+    {
+      "alternates": [
+        "Pacino"
+      ],
+      "answer": "Al Pacino",
+      "category": "movies",
+      "difficulty": "hard",
+      "question": "In The Godfather, who plays Michael Corleone?"
+    },
+    {
+      "alternates": [],
+      "answer": "Wakanda",
+      "category": "movies",
+      "difficulty": "hard",
+      "question": "What is the name of the fictional African country in Black Panther?",
+      "power": "guard"
+    },
+    {
+      "alternates": [
+        "Vincent"
+      ],
+      "answer": "Vincent Vega",
+      "category": "movies",
+      "difficulty": "hard",
+      "question": "In Pulp Fiction, what is the name of John Travolta's character?"
+    },
+    {
+      "alternates": [
+        "Swift"
+      ],
+      "answer": "Taylor Swift",
+      "category": "music",
+      "difficulty": "medium",
+      "question": "Which artist released the album 1989?"
+    },
+    {
+      "alternates": [
+        "Zeppelin"
+      ],
+      "answer": "Led Zeppelin",
+      "category": "music",
+      "difficulty": "medium",
+      "question": "What band released the song Stairway to Heaven?"
+    },
+    {
+      "alternates": [],
+      "answer": "Mamma Mia",
+      "category": "music",
+      "difficulty": "medium",
+      "question": "What is the name of the ABBA musical?"
+    },
+    {
+      "alternates": [],
+      "answer": "Adele",
+      "category": "music",
+      "difficulty": "hard",
+      "question": "Which singer released the album 21?"
+    },
+    {
+      "alternates": [],
+      "answer": "1975",
+      "category": "music",
+      "difficulty": "hard",
+      "question": "What year was the song Bohemian Rhapsody released?"
+    },
+    {
+      "question": "In GTA V, what is the name of the in-game stock market website you can trade on?",
+      "answer": "BAWSAQ",
+      "alternates": [],
+      "category": "gta",
+      "difficulty": "easy"
+    },
+    {
+      "question": "In GTA: San Andreas, what is the name of CJ's brother who leads the Grove Street Families?",
+      "answer": "Sweet",
+      "alternates": [
+        "Sean Johnson",
+        "Sweet Johnson"
+      ],
+      "category": "gta",
+      "difficulty": "easy"
+    },
+    {
+      "question": "In GTA V, which character is a former military pilot who lives in Sandy Shores?",
+      "answer": "Trevor Philips",
+      "alternates": [
+        "Trevor"
+      ],
+      "category": "gta",
+      "difficulty": "easy",
+      "power": "rage"
+    },
+    {
+      "question": "In GTA IV, what is the name of the island borough where Niko first lives?",
+      "answer": "Broker",
+      "alternates": [],
+      "category": "gta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "In GTA: San Andreas, what is the name of the desert airstrip you can buy in Bone County?",
+      "answer": "Verdant Meadows",
+      "alternates": [],
+      "category": "gta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "In GTA V, what is the name of Franklin's dog?",
+      "answer": "Chop",
+      "alternates": [],
+      "category": "gta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "In GTA V, what is the name of the cult that Trevor delivers hitchhikers to?",
+      "answer": "Altruist Cult",
+      "alternates": [
+        "The Altruists",
+        "Altruists"
+      ],
+      "category": "gta",
+      "difficulty": "medium"
+    },
+    {
+      "question": "In GTA: San Andreas, what is the name of the corrupt police officer who blackmails CJ throughout the game?",
+      "answer": "Frank Tenpenny",
+      "alternates": [
+        "Tenpenny",
+        "Officer Tenpenny"
+      ],
+      "category": "gta",
+      "difficulty": "hard"
+    },
+    {
+      "question": "In GTA V, what year is the prologue bank robbery in North Yankton set in?",
+      "answer": "2004",
+      "alternates": [],
+      "category": "gta",
+      "difficulty": "hard"
+    },
+    {
+      "question": "In GTA: Vice City, who sent Tommy Vercetti to Vice City for the drug deal?",
+      "answer": "Sonny Forelli",
+      "alternates": [
+        "Sonny"
+      ],
+      "category": "gta",
+      "difficulty": "hard"
+    },
+    {
+      "question": "In Naruto, what is the name of the village Naruto is from?",
+      "answer": "Hidden Leaf Village",
+      "alternates": [
+        "Konoha",
+        "Konohagakure"
+      ],
+      "category": "anime",
+      "difficulty": "easy",
+      "power": "genjutsu"
+    },
+    {
+      "question": "In Dragon Ball Z, what is the name of Goku's son?",
+      "answer": "Gohan",
+      "alternates": [],
+      "category": "anime",
+      "difficulty": "easy",
+      "power": "strength"
+    },
+    {
+      "question": "In One Piece, what is the name of the swordsman who wants to become the world's greatest?",
+      "answer": "Roronoa Zoro",
+      "alternates": [
+        "Zoro"
+      ],
+      "category": "anime",
+      "difficulty": "easy",
+      "power": "strength"
+    },
+    {
+      "question": "In Attack on Titan, what is Eren's last name?",
+      "answer": "Yeager",
+      "alternates": [
+        "Jaeger"
+      ],
+      "category": "anime",
+      "difficulty": "medium",
+      "power": "rage"
+    },
+    {
+      "question": "In Death Note, what is the name of the second Kira?",
+      "answer": "Misa Amane",
+      "alternates": [
+        "Misa"
+      ],
+      "category": "anime",
+      "difficulty": "medium",
+      "power": "drain"
+    },
+    {
+      "question": "In Fullmetal Alchemist: Brotherhood, what is the name of the homunculus who can shapeshift into anyone?",
+      "answer": "Envy",
+      "alternates": [],
+      "category": "anime",
+      "difficulty": "medium",
+      "power": "genjutsu"
+    },
+    {
+      "question": "In My Hero Academia, what is All Might's real name?",
+      "answer": "Toshinori Yagi",
+      "alternates": [
+        "Yagi"
+      ],
+      "category": "anime",
+      "difficulty": "medium",
+      "power": "strength"
+    },
+    {
+      "question": "In Pokemon, what is the name of the region Ash travels through in the first season?",
+      "answer": "Kanto",
+      "alternates": [],
+      "category": "anime",
+      "difficulty": "hard"
+    },
+    {
+      "question": "In Spirited Away, what is Chihiro's new name when she starts working at the bathhouse?",
+      "answer": "Sen",
+      "alternates": [],
+      "category": "anime",
+      "difficulty": "hard"
+    },
+    {
+      "question": "In Demon Slayer, what is the name of the highest rank a demon slayer can reach?",
+      "answer": "Hashira",
+      "alternates": [
+        "Pillar"
+      ],
+      "category": "anime",
+      "difficulty": "hard",
+      "power": "strength"
+    },
+    {
+      "question": "In Minecraft, what do you need to mine obsidian?",
+      "answer": "Diamond pickaxe",
+      "alternates": [
+        "A diamond pickaxe"
+      ],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "In Fortnite, what is the name of the bus players jump from at the start of a match?",
+      "answer": "Battle Bus",
+      "alternates": [],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which company makes the Xbox?",
+      "answer": "Microsoft",
+      "alternates": [],
+      "category": "gaming",
+      "difficulty": "easy"
+    },
+    {
+      "question": "In The Legend of Zelda: Breath of the Wild, what is the name of the kingdom?",
+      "answer": "Hyrule",
+      "alternates": [],
+      "category": "gaming",
+      "difficulty": "medium",
+      "power": "guard"
+    },
+    {
+      "question": "In Among Us, what color is the crewmate on the game's cover art?",
+      "answer": "Red",
+      "alternates": [],
+      "category": "gaming",
+      "difficulty": "medium"
+    },
+    {
+      "question": "In Overwatch, what is the name of the AI that runs the Watchpoint?",
+      "answer": "Athena",
+      "alternates": [],
+      "category": "gaming",
+      "difficulty": "medium"
+    },
+    {
+      "question": "In Elden Ring, what is the name of the first open area you explore after the tutorial?",
+      "answer": "Limgrave",
+      "alternates": [],
+      "category": "gaming",
+      "difficulty": "medium"
+    },
+    {
+      "question": "In Minecraft, what is the name of the dimension you reach through a Nether portal?",
+      "answer": "The Nether",
+      "alternates": [
+        "Nether"
+      ],
+      "category": "gaming",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What year was the original Super Mario Bros. released?",
+      "answer": "1985",
+      "alternates": [],
+      "category": "gaming",
+      "difficulty": "hard",
+      "power": "revive"
+    },
+    {
+      "question": "In The Legend of Zelda: Ocarina of Time, what is the name of Princess Zelda's alter ego?",
+      "answer": "Sheik",
+      "alternates": [],
+      "category": "gaming",
+      "difficulty": "hard",
+      "power": "genjutsu"
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "answer": "Jupiter",
+      "alternates": [],
+      "category": "general",
+      "difficulty": "easy"
+    },
+    {
+      "question": "How many days are there in a leap year?",
+      "answer": "366",
+      "alternates": [],
+      "category": "general",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "answer": "Tokyo",
+      "alternates": [],
+      "category": "general",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "answer": "H2O",
+      "alternates": [],
+      "category": "general",
+      "difficulty": "medium"
+    },
+    {
+      "question": "How many legs does a spider have?",
+      "answer": "8",
+      "alternates": [
+        "Eight"
+      ],
+      "category": "general",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What is the fastest land animal?",
+      "answer": "Cheetah",
+      "alternates": [],
+      "category": "general",
+      "difficulty": "medium",
+      "power": "speed"
+    },
+    {
+      "question": "What is the main ingredient in guacamole?",
+      "answer": "Avocado",
+      "alternates": [],
+      "category": "general",
+      "difficulty": "medium",
+      "power": "heal"
+    },
+    {
+      "question": "What is the smallest planet in our solar system?",
+      "answer": "Mercury",
+      "alternates": [],
+      "category": "general",
+      "difficulty": "hard",
+      "power": "speed"
+    },
+    {
+      "question": "In what year did World War II end?",
+      "answer": "1945",
+      "alternates": [],
+      "category": "general",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the powerhouse of the cell?",
+      "answer": "Mitochondria",
+      "alternates": [
+        "The mitochondria"
+      ],
+      "category": "general",
+      "difficulty": "hard",
+      "power": "heal"
+    },
+    {
+      "question": "In The Lion King, what is the name of Simba's father?",
+      "answer": "Mufasa",
+      "alternates": [],
+      "category": "movies",
+      "difficulty": "easy",
+      "power": "strength"
+    },
+    {
+      "question": "Who directed the movie Titanic?",
+      "answer": "James Cameron",
+      "alternates": [
+        "Cameron"
+      ],
+      "category": "movies",
+      "difficulty": "easy"
+    },
+    {
+      "question": "In Star Wars, what is the name of Han Solo's ship?",
+      "answer": "Millennium Falcon",
+      "alternates": [
+        "The Millennium Falcon"
+      ],
+      "category": "movies",
+      "difficulty": "easy",
+      "power": "speed"
+    },
+    {
+      "question": "In The Avengers, what is the name of Tony Stark's AI assistant?",
+      "answer": "J.A.R.V.I.S.",
+      "alternates": [
+        "Jarvis"
+      ],
+      "category": "movies",
+      "difficulty": "medium"
+    },
+    {
+      "question": "In Jurassic Park, what is the name of the island where the park is built?",
+      "answer": "Isla Nublar",
+      "alternates": [
+        "Nublar"
+      ],
+      "category": "movies",
+      "difficulty": "medium",
+      "power": "rage"
+    },
+    {
+      "question": "In Harry Potter, what is the name of Harry's owl?",
+      "answer": "Hedwig",
+      "alternates": [],
+      "category": "movies",
+      "difficulty": "medium"
+    },
+    {
+      "question": "In The Lord of the Rings, what is the name of the wizard who guides the Fellowship?",
+      "answer": "Gandalf",
+      "alternates": [],
+      "category": "movies",
+      "difficulty": "medium",
+      "power": "genjutsu"
+    },
+    {
+      "question": "In Back to the Future, what year does Marty McFly travel to in the first movie?",
+      "answer": "1955",
+      "alternates": [],
+      "category": "movies",
+      "difficulty": "hard",
+      "power": "rewind"
+    },
+    {
+      "question": "In The Godfather, what is the name of the Corleone family patriarch?",
+      "answer": "Vito Corleone",
+      "alternates": [
+        "Vito"
+      ],
+      "category": "movies",
+      "difficulty": "hard"
+    },
+    {
+      "question": "In Pulp Fiction, what is the name of the restaurant where Vincent takes Mia?",
+      "answer": "Jack Rabbit Slim's",
+      "alternates": [
+        "Jack Rabbit Slims"
+      ],
+      "category": "movies",
+      "difficulty": "hard"
+    },
+    {
+      "question": "Who is known as the Queen of Pop?",
+      "answer": "Madonna",
+      "alternates": [],
+      "category": "music",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which band released the album Dark Side of the Moon?",
+      "answer": "Pink Floyd",
+      "alternates": [],
+      "category": "music",
+      "difficulty": "easy"
+    },
+    {
+      "question": "What instrument has 88 keys?",
+      "answer": "Piano",
+      "alternates": [],
+      "category": "music",
+      "difficulty": "easy"
+    },
+    {
+      "question": "Which singer released the album 25?",
+      "answer": "Adele",
+      "alternates": [],
+      "category": "music",
+      "difficulty": "medium"
+    },
+    {
+      "question": "What band released the song Sweet Child O' Mine?",
+      "answer": "Guns N' Roses",
+      "alternates": [
+        "Guns N Roses"
+      ],
+      "category": "music",
+      "difficulty": "medium",
+      "power": "rage"
+    },
+    {
+      "question": "Which rapper released the album The Marshall Mathers LP?",
+      "answer": "Eminem",
+      "alternates": [],
+      "category": "music",
+      "difficulty": "medium",
+      "power": "rage"
+    },
+    {
+      "question": "What year did Michael Jackson release the album Thriller?",
+      "answer": "1982",
+      "alternates": [],
+      "category": "music",
+      "difficulty": "medium"
+    },
+    {
+      "question": "Which artist released the album Purple Rain?",
+      "answer": "Prince",
+      "alternates": [],
+      "category": "music",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What is the name of the Beatles' drummer?",
+      "answer": "Ringo Starr",
+      "alternates": [
+        "Ringo"
+      ],
+      "category": "music",
+      "difficulty": "hard"
+    },
+    {
+      "question": "What year was the song Imagine released?",
+      "answer": "1971",
+      "alternates": [],
+      "category": "music",
+      "difficulty": "hard",
+      "power": "heal"
+    },
+    {
+      "question": "What is the name of the Flash's alter ego?",
+      "answer": "Barry Allen",
+      "alternates": [
+        "Barry"
+      ],
+      "category": "movies",
+      "difficulty": "easy",
+      "power": "speed"
+    },
+    {
+      "question": "What city does the Flash protect?",
+      "answer": "Central City",
+      "alternates": [],
+      "category": "movies",
+      "difficulty": "easy",
+      "power": "speed"
+    },
+    {
+      "question": "In the 2023 movie The Flash, who plays Barry Allen?",
+      "answer": "Ezra Miller",
+      "alternates": [],
+      "category": "movies",
+      "difficulty": "medium",
+      "power": "speed"
+    },
+    {
+      "question": "In Dragon Ball Z, what is the name of Goku's signature energy attack?",
+      "answer": "Kamehameha",
+      "alternates": [
+        "Kamehameha wave"
+      ],
+      "category": "anime",
+      "difficulty": "easy",
+      "power": "strength"
+    },
+    {
+      "question": "In Dragon Ball Z, what bean fully restores a fighter's health and energy?",
+      "answer": "Senzu Bean",
+      "alternates": [
+        "Senzu"
+      ],
+      "category": "anime",
+      "difficulty": "medium",
+      "power": "heal"
+    },
+    {
+      "question": "In Back to the Future, what car is turned into a time machine?",
+      "answer": "DeLorean",
+      "alternates": [
+        "DeLorean time machine"
+      ],
+      "category": "movies",
+      "difficulty": "easy",
+      "power": "rewind"
+    },
+    {
+      "question": "In Naruto, what is Kakashi's nickname?",
+      "answer": "Copy Ninja",
+      "alternates": [
+        "Copy Ninja Kakashi"
+      ],
+      "category": "anime",
+      "difficulty": "medium",
+      "power": "genjutsu"
+    }
+  ]
+}

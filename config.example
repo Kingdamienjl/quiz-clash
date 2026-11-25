@@ -1,0 +1,36 @@
+# Copy this file to `.env` and fill in the real values.
+# NEVER commit `.env` — it holds secrets. See README.md for how to get each value.
+
+# --- Twitch app (dev.twitch.tv/console) ---
+TWITCH_CLIENT_ID=
+TWITCH_CLIENT_SECRET=
+
+# kingdamienjl's Twitch user id (public). The bot logs in as Chris himself,
+# so bot id == owner id. Leave as-is unless the channel changes.
+TWITCH_BOT_ID=59499420
+TWITCH_OWNER_ID=59499420
+TWITCH_CHANNEL=kingdamienjl
+
+# --- One-time authorize (Twitch CLI, see README) ---
+# Paste the access + refresh tokens the authorize step prints here.
+TWITCH_ACCESS_TOKEN=
+TWITCH_REFRESH_TOKEN=
+
+# --- Athena brain (Ollama on Fails PC, over Tailscale) ---
+OLLAMA_URL=http://100.95.184.104:11434
+OLLAMA_MODEL=hermes3:8b
+
+# --- Quiz tuning ---
+PROACTIVE_INTERVAL_MINUTES=15
+QUESTION_TIMEOUT_SECONDS=30
+
+# --- Live overlay (OBS browser source) ---
+# The bot serves the overlay page + state at http://<bot-host>:8765/
+# Add it in OBS as a Browser Source. Set false to turn it off.
+OVERLAY_ENABLED=true
+OVERLAY_PORT=8765
+
+# --- Paths (defaults are fine on the R810 LXC) ---
+# DATA_DIR=
+# QUESTIONS_PATH=
+# TWITCH_WITH_ADAPTER=false

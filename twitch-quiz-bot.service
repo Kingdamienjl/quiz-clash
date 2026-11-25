@@ -1,0 +1,33 @@
+# twitch-quiz-bot — systemd service for the R810 LXC (Debian)
+#
+# Install (on the LXC, as root):
+#   1. Copy this whole project to /opt/twitch-quiz-bot
+#   2. python3 -m venv /opt/twitch-quiz-bot/.venv
+#      /opt/twitch-quiz-bot/.venv/bin/pip install -r /opt/twitch-quiz-bot/requirements.txt
+#   3. cp /opt/twitch-quiz-bot/config.example /opt/twitch-quiz-bot/.env  (then fill it in)
+#   4. cp twitch-quiz-bot.service /etc/systemd/system/
+#      systemctl daemon-reload
+#      systemctl enable --now twitch-quiz-bot
+#   5. Check: systemctl status twitch-quiz-bot ; journalctl -u twitch-quiz-bot -f
+#
+# The bot auto-restarts on crash. Tokens live in /opt/twitch-quiz-bot/data/tokens.db
+# and scores in /opt/twitch-quiz-bot/data/scores.db — both survive restarts.
+
+[Unit]
+Description=Twitch quiz bot for kingdamienjl
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=root
+WorkingDirectory=/opt/twitch-quiz-bot
+EnvironmentFile=/opt/twitch-quiz-bot/.env
+ExecStart=/opt/twitch-quiz-bot/.venv/bin/python bot.py
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
